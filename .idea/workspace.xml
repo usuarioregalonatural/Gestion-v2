@@ -2,193 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be8a1c8-2e59-46bc-b30d-3359f2b22a08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/css/auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/inicio.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/config/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/css/auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ar/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/de/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/en/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/es/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/fr/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/hr/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/it/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/nl/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/pt-br/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ru/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/uk/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/zh-CN/adminlte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/page.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item-top-nav.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/email.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/reset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/AdminLte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/AdminLteMakeCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/MakeAdminLteCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/login.stub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/email.stub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/reset.stub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/register.stub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/home.stub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Events/BuildingMenu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Http/ViewComposers/AdminLteComposer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/ActiveChecker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Builder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ActiveFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ClassesFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/FilterInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/GateFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/HrefFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/SubmenuFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/ServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Gestion-v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Gestion-v2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -205,17 +21,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="835">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="176" column="59" selection-start-line="176" selection-start-column="59" selection-end-line="176" selection-end-column="59" />
+            <state relative-caret-position="155">
+              <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -223,17 +30,17 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="136">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inicio.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/inicio.blade.php">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="172">
+              <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -264,8 +71,9 @@
         <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/inicio.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -397,18 +205,7 @@
             <path>
               <item name="Gestion-v2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gestion-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gestion-v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gestion-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gestion-v2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gestion-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -466,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2301000" />
+    <option name="totallyTimeSpent" value="3435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -478,21 +275,35 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32943678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32943678" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,14 +358,14 @@
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
-          <caret line="176" column="59" selection-start-line="176" selection-start-column="59" selection-end-line="176" selection-end-column="59" />
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="187">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -569,6 +380,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="835">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="176" column="59" selection-start-line="176" selection-start-column="59" selection-end-line="176" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/inicio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
         </state>
       </provider>
     </entry>
