@@ -129,7 +129,7 @@ return [
         'CLIENTES',
         [
             'text'        => 'Nuevo',
-            'url'         => 'clientes/altas',
+            'url'         => 'nuevo_cliente',
             'icon'        => 'user',
             'icon_color'  => 'aqua',
 //            'label'       => 4,
@@ -137,7 +137,7 @@ return [
         ],
         [
             'text'        => 'Buscar',
-            'url'         => 'clientes/busqueda',
+            'url'         => 'ver_clientes',
             'icon'        => 'search',
 //            'label'       => 4,
             'label_color' => 'success',
@@ -152,7 +152,7 @@ return [
         'PROVEEDORES',
         [
             'text'        => 'Nuevo',
-            'url'         => 'proveedores/altas',
+            'url'         => 'proveedores',
             'icon'        => 'briefcase',
             'icon_color'  => 'yellow',
 //            'label'       => 4,
