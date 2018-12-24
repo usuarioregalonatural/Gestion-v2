@@ -30,9 +30,9 @@ return [
     |
     */
 
-    'logo' => '<b>Admin</b>LTE',
+    'logo' => '<b>Gestion</b> Raluca Art',
 
-    'logo_mini' => '<b>A</b>LT',
+    'logo_mini' => '<b>Ra</b>LT',
 
     /*
     |--------------------------------------------------------------------------
@@ -108,20 +108,71 @@ return [
     */
 
     'menu' => [
-        'MAIN NAVIGATION',
+        'ACCESO RAPIDO',
         [
-            'text' => 'Blog',
-            'url'  => 'admin/blog',
-            'can'  => 'manage-blog',
-        ],
-        [
-            'text'        => 'Pages',
-            'url'         => 'admin/pages',
-            'icon'        => 'file',
-            'label'       => 4,
+            'text'        => 'Pedidos Clientes',
+            'url'         => 'clientes/pedidos',
+            'icon'        => 'shopping-cart',
+            'icon_color'  => 'green',
+            // 'label'       => 4,
             'label_color' => 'success',
         ],
-        'ACCOUNT SETTINGS',
+        [
+            'text'        => 'Compras Proveedores',
+            'url'         => 'proveedores/compras',
+            'icon'        => 'credit-card',
+            'icon_color'  => 'blue',
+
+            // 'label'       => 4,
+            'label_color' => 'success',
+        ],
+        'CLIENTES',
+        [
+            'text'        => 'Nuevo',
+            'url'         => 'clientes/altas',
+            'icon'        => 'user',
+            'icon_color'  => 'aqua',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+        [
+            'text'        => 'Buscar',
+            'url'         => 'clientes/busqueda',
+            'icon'        => 'search',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+        [
+            'text'        => 'Informes',
+            'url'         => 'clientes/informes',
+            'icon'        => 'list-alt',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+        'PROVEEDORES',
+        [
+            'text'        => 'Nuevo',
+            'url'         => 'proveedores/altas',
+            'icon'        => 'briefcase',
+            'icon_color'  => 'yellow',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+        [
+            'text'        => 'Buscar',
+            'url'         => 'proveedores/busqueda',
+            'icon'        => 'search',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+        [
+            'text'        => 'Informes',
+            'url'         => 'proveedores/informes',
+            'icon'        => 'list-alt',
+//            'label'       => 4,
+            'label_color' => 'success',
+        ],
+ /*       'ACCOUNT SETTINGS',
         [
             'text' => 'Profile',
             'url'  => 'admin/settings',
@@ -183,7 +234,7 @@ return [
             'text'       => 'Information',
             'icon_color' => 'aqua',
         ],
-    ],
+   */ ],
 
     /*
     |--------------------------------------------------------------------------
