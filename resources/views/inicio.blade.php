@@ -9,8 +9,7 @@
 @section('content_header')
 
     <h1>Ultima Semana</h1>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
+    <!--    <link href="css/bootstrap.min.css" rel="stylesheet"> -->
 @stop
 
 
@@ -152,6 +151,6 @@
 @section('js')
 
     <script> console.log('Hi!'); </script>
-    <script src="js/bootstrap.min.js"></script>
+    <!--   <script src="js/bootstrap.min.js"></script> -->
 @stop
 
